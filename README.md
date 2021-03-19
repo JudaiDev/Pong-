@@ -1,4 +1,4 @@
-# Pong
+# Pong by JudaiDev.
 
 A Basic game as a Ping-Pong.
 
